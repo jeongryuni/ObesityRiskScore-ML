@@ -1,6 +1,6 @@
-# SaveUs — 비만 위험도 모델 v2 (Obesity Risk Score)
+# SaveUs — 비만 위험도 모델 (Obesity Risk Score)
 
-본 문서는 SaveUs 서비스에서 사용되는 **새로운 비만 위험도(Obesity Risk Score) 모델**의 공식 기술 문서입니다.  
+본 문서는 SaveUs 서비스에서 사용되는 **비만 위험도(Obesity Risk Score) 모델**입니다.  
 이번 버전은 “오늘 먹은 식단 기반 위험도 0~100점 계산”을 핵심 목표로 설계되었습니다.
 
 ---
